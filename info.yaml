@@ -2,8 +2,8 @@
 project:
   title:        "komasan"      # Project title
   author:       "komasan"      # Your name
-  discord:      ""      # Your discord username (optional)
-  description:  ""      # One line description of what your project does
+  discord:      "komasan"      # Your discord username (optional)
+  description:  "komasan"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
