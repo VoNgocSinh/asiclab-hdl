@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
   title:        "komasan"      # Project title
-  author:       "komasan"      # Your name
+  author:       "UIT"      # Your name
   discord:      "komasan"      # Your discord username (optional)
-  description:  "komasan"      # One line description of what your project does
+  description:  "Mach vi tinh"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     50       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -33,14 +33,14 @@ pinout:
   ui[7]: "ui_in[7]"
 
   # Outputs
-  uo[0]: "uo_out[0]"
-  uo[1]: "uo_out[0]"
-  uo[2]: "uo_out[0]"
-  uo[3]: "uo_out[0]"
-  uo[4]: "uo_out[0]"
-  uo[5]: "uo_out[0]"
-  uo[6]: "uo_out[0]"
-  uo[7]: "uo_out[0]"
+  uo[0]: "ui_out[0]"
+  uo[1]: "ui_out[0]"
+  uo[2]: "ui_out[0]"
+  uo[3]: "ui_out[0]"
+  uo[4]: "ui_out[0]"
+  uo[5]: "ui_out[0]"
+  uo[6]: "ui_out[0]"
+  uo[7]: "ui_out[0]"
 
   # Bidirectional pins
   uio[0]: ""
